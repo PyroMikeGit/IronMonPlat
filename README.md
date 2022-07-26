@@ -1,9 +1,8 @@
 # IronMonDPP
 
 
-![image](https://user-images.githubusercontent.com/109924208/180869990-687c86f9-5a3c-4b7f-9a29-e9b5d5dc129d.png)
+![image](https://user-images.githubusercontent.com/109924208/181107046-1fd79cf2-95c8-4457-99a8-7541ac1abda0.png)
 
-Link for the Patch is in the Release Tab!
 ## How to Install Patch
 
 1. Download the xDelta Patch File in the Release Tab
