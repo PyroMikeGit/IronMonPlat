@@ -9,6 +9,6 @@ Link for Download is in the Release Tab!
 - Replace all enemy trainer dialogue from Twinleaf to Gym 1
 - Replace all important dialogue from Twinleaf to Gym 1
 - IronMon lore dump in the Adventure Info tab in the Tutorial Menu
-- Add Signs to Twinleaf Town to Memorialize The First Victorious 10 Runners of Each Category
+- Add Signs to Twinleaf Town to Memorialize The First Clear for 10 Runners of Each Category
   
   
