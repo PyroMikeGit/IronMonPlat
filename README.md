@@ -8,7 +8,9 @@ Mod
 - Added a Credits Section for the Mod (V0.1.0)
 - Modified the dialogue for the Beginning TV Screen (V0.1.0)
 <br>
-<br>#Current Roadmap for Updates:<br>
+<br>
+# Current Roadmap for Updates:
+<br>
 - Figure out what to put for that one leftover box in Mod Credits
 - Modify the briefcase section to make resets a bit more interesting.
 - Add Message in Save Menu to remind BizHawk players to Flush Save Ram when they save in-game
