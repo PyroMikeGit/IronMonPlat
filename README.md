@@ -21,6 +21,7 @@ And that's it! Now you're free to go back to the Case over, and over, and over..
 - Verified that the Patch works with Ajarmar's Universal Randomizer (V0.0.1)
 - Modified all of the main dialogue for Introduction (V0.1.0)
 - Added a Credits Section for the Mod (V0.1.0)
+- Modified Start Screen for Saved Games (V0.1.0)
 - Modified the dialogue for the Beginning TV Screen (V0.1.0)
 
 ## Current Roadmap for Updates:
