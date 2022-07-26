@@ -1,15 +1,26 @@
 # IronMonDPP
+
+
 ![image](https://user-images.githubusercontent.com/109924208/180869990-687c86f9-5a3c-4b7f-9a29-e9b5d5dc129d.png)
-<br>Link for Download is in the Release Tab!
-Mod
-<br>#Current Progress:
+
+Link for the Patch is in the Release Tab!
+## How to Install Patch
+
+1. Download the xDelta Patch File in the Release Tab
+2. Go to https://hack64.net/tools/patcher.php
+3. Select your unpatched ROM file and the patch that you want to use, name the Patched ROM file, and hit "Patch".
+
+![image](https://user-images.githubusercontent.com/109924208/180869407-cdb873ab-2f4c-4419-86b7-9dc770e41a82.png)
+
+## Current Progress:
+
 - Added a Custom Title Screen to Platinum (V0.0.1)
 - Modified all of the main dialogue for Introduction (V0.1.0)
 - Added a Credits Section for the Mod (V0.1.0)
 - Modified the dialogue for the Beginning TV Screen (V0.1.0)
-<br>
-<br>
-## Current Roadmap for Updates:<br>
+
+## Current Roadmap for Updates:
+
 - Figure out what to put for that one leftover box in Mod Credits
 - Modify the briefcase section to make resets a bit more interesting.
 - Add Message in Save Menu to remind BizHawk players to Flush Save Ram when they save in-game
