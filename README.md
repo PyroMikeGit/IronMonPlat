@@ -5,11 +5,17 @@
 
 ## How to Install Patch
 
-1. Download the xDelta Patch File in the Release Tab
-2. Go to https://hack64.net/tools/patcher.php
-3. Select your unpatched ROM file and the patch that you want to use, name the Patched ROM file, and hit "Patch".
+Step 1. Download the xDelta Patch File in the Release Tab
+
+Step 2. Go to https://hack64.net/tools/patcher.php
+
+Step 3. Select your unpatched ROM file and the patch that you want to use.
+
+Step 4. Name the Patched ROM file, and hit "Patch".
 
 ![image](https://user-images.githubusercontent.com/109924208/180869407-cdb873ab-2f4c-4419-86b7-9dc770e41a82.png)
+
+And that's it! Now you're free to go back to the Case over, and over, and over...
 
 ## Current Progress:
 
