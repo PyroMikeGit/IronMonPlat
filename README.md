@@ -1,5 +1,3 @@
-# IronMonDPP
-
 ![IronMon Plat Logo](https://user-images.githubusercontent.com/109924208/181129496-0fd8017e-1660-42e7-8f85-f48881de97e5.png)
 
 ## How to Install Patch
