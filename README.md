@@ -23,11 +23,12 @@ And that's it! Now you're free to go back to the Case over, and over, and over..
 - Added a Credits Section for the Mod (V0.1.0)
 - Modified Start Screen for Saved Games (V0.1.0)
 - Modified the dialogue for the Beginning TV Screen (V0.1.0)
+- Modified the dialogue for the Briefcase Section (V0.1.1)
 
 ## Current Roadmap for Updates:
 
 - Figure out what to put for that one leftover box in Mod Credits
-- Modify the briefcase section to make resets a bit more interesting.
+- ~~Modify the briefcase section to make resets a bit more interesting.~~
 - Add Message in Save Menu to remind BizHawk players to Flush Save Ram when they save in-game
 - Replace all enemy trainer dialogue from Twinleaf to Gym 1
 - Replace all important dialogue from Twinleaf to Gym 1
