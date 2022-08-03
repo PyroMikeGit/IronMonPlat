@@ -29,7 +29,7 @@ And that's it! Now you're free to go back to the Case over, and over, and over..
 
 - Figure out what to put for that one leftover box in Mod Credits
 - ~~Modify the briefcase section to make resets a bit more interesting.~~
-- Add Message in Save Menu to remind BizHawk players to Flush Save Ram when they save in-game
+- ~~Add Message in Save Menu to remind BizHawk players to Flush Save Ram when they save in-game~~
 - Replace all enemy trainer dialogue from Twinleaf to Gym 1
 - Replace all important dialogue from Twinleaf to Gym 1
 - IronMon lore dump in the Adventure Info tab in the Tutorial Menu
