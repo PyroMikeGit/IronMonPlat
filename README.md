@@ -17,7 +17,7 @@ And that's it! Now you're free to go back to the Case over, and over, and over..
 ## Current Progress:
 
 - Added a Custom Title Screen to Platinum (V0.0.1)
-- [] Verified that the Patch works with Brian0255's NDS IronMon Tracker (V0.0.1)
+- Verified that the Patch works with Brian0255's NDS IronMon Tracker (V0.0.1)
 - Verified that the Patch works with Ajarmar's Universal Randomizer (V0.0.1)
 - Modified all of the main dialogue for Introduction (V0.1.0)
 - Added a Credits Section for the Mod (V0.1.0)
