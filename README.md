@@ -5,6 +5,7 @@
 - Shortens/removes dialogue scenes up until Eterna City to make the start of the game faster to complete.
 - Removes the frame limiter so movement and battle animations are sped up [as shown here.](https://www.youtube.com/watch?v=P7P6tjsuNxY&t=77s)
 - Added SpagoAsparago's Platinum Auto Repel Script to ask if you want to use a Repel without having to go into your bag.
+
 ![image](https://user-images.githubusercontent.com/109924208/195039466-96978224-959f-42df-bfca-ee383e5d968d.png)
 
 
