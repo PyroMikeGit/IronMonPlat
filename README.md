@@ -23,15 +23,9 @@ And that's it! Now you're free to go back to the case over, and over, and over..
 
 Note: This patch currently uses the 1.0 Version of Platinum, so if someone needs a patch for 1.1, just ping me in the [IronMON Discord Server](https://discord.gg/Z5aruYafq4) (ID: @Pyro#1111)
 
-## Possible Future Updates:
-
-- Replace all enemy trainer dialogue from Twinleaf to Gym 1
-- Replace all important dialogue from Twinleaf to Gym 1
-- Add Signs to Twinleaf Town to Memorialize The First Clear for 10 Runners of Each Category
-- Replace Dialogue past Gym 1?
 
 ## Credits:
 
-Huge thanks to Arex for making his Intro Patch that this patch was built off of and also making my resets so much faster.
+Huge thanks to Arex for making the Intro Patch that this patch was built off of and also making my resets so much faster.
 
 Also massive shoutouts to OnlySpaghettiCode and UTDZac for making the GBA/NDS IronMON trackers, iateyourpie for creating the IronMON challenge, and the folks in the Kingdom of DS Hacking Discord server for their modding guides!
